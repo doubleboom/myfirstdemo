@@ -1,2 +1,2 @@
 # myfirstdemo
-jusat a demo
+it just a demo
