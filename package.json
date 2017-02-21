@@ -1,0 +1,28 @@
+{
+  "name": "crawler-demo",
+  "version": "0.0.1",
+  "description": "just a demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doubleboom/myfirstdemo.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "leee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doubleboom/myfirstdemo/issues"
+  },
+  "homepage": "https://github.com/doubleboom/myfirstdemo#readme",
+  "dependencies": {
+    "bunyan": "^1.8.5",
+    "cheerio": "^0.22.0",
+    "crawler": "^1.0.2",
+    "nodemailer": "^3.1.3"
+  }
+}
